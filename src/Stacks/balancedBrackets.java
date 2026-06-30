@@ -1,4 +1,4 @@
-package stacks;
+package Stacks;
 import java.util.*;
 public class balancedBrackets {
     public static boolean isBalanced(String str){

@@ -1,4 +1,4 @@
-package stacks;
+package Stacks;
 
 public class arrayImplementation {
     private static class Stack{
