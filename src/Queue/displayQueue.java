@@ -11,7 +11,10 @@ public class displayQueue {
         q.add(3);
         q.add(4);
         q.add(5);
+
+        q.remove();
         System.out.println(q);
+        System.out.println(q.peek());
         Queue<Integer> helper = new LinkedList<>();
         while(q.size()>0){
 //            System.out.println(q.peek());
